@@ -7,7 +7,7 @@ import static java.lang.Character.toUpperCase;
 public class WordCount {
 
     public static void task_1(String str) {
-        System.out.println("Total number of words: " + countWords(str));
+        System.out.println("Total number of Words: " + countWords(str));
     }
 
     public static void task_2(String str) throws IOException {
